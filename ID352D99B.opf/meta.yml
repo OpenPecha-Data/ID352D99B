@@ -1,0 +1,38 @@
+id: ID352D99B
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T23:52:11.003841'
+last_modified: '2022-06-18T23:52:11.003857'
+parser: null
+source_metadata:
+  title: Printing Colophon of mKhas pa ug pai sgo, sGra nye bar bsdus pai tshigs bcad
+    and Byis pa bde blag tu jug pai rnam bshad, block print, colophon excerpt
+  author: sa skya paNDi ta kun dga rgyal mtshan/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2015-07-14); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2556
+  bases:
+    bb9a:
+      title: Printing Colophon of mKhas pa ug pai sgo, sGra nye bar bsdus pai tshigs
+        bcad and Byis pa bde blag tu jug pai rnam bshad, block print, colophon excerpt
+      order: 1
+      base_file: bb9a.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
